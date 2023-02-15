@@ -4,10 +4,12 @@ This module allows users to easily display Models inside of Viewport Frames with
 # Changes
 I added two functions to this Module:
 
-* GenerateViewport
+* **GenerateViewport**
+
 Which basically handles everything for you. Just pass through the Viewport Frame, Model, & (optionally) the Orientation for the Model!
 
-* CleanViewport
+* **CleanViewport**
+
 This will delete any models already stored inside of the Viewport Frame. It's a very simple function, but I found myself using it quite often!
 
 # Credit
